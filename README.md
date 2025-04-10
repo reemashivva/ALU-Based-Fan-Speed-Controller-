@@ -84,7 +84,4 @@ The system reads the ambient temperature, processes it using the ALU, and dynami
 
 ---
 
-## License
-
-This project is open-source and free to use for academic and educational purposes.
 
