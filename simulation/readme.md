@@ -17,3 +17,4 @@ The testbench provides a simulation of different temperature values to verify th
 ## ALU Output with Temperature-Based Fan Speed Control:
 
 -This will show how the ALU output is integrated into your temperature-based fan speed controller logic, using the temperature input to determine the fan speed based on the ALU's results.
+![Image](https://github.com/user-attachments/assets/9ffc1717-8f63-4a87-945f-993953b39f92)
