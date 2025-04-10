@@ -62,11 +62,7 @@ The system reads the ambient temperature, processes it using the ALU, and dynami
 
 ---
 
-## Block Diagram
 
-![System Architecture](architecture.png)
-
----
 
 
 
